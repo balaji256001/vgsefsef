@@ -22,7 +22,7 @@
                 "shasum": ""
             },
             "require": {
-                "composer-plugin-api": "^0.7.1",
+                "composer-plugin-api": "2.3.0",
                 "php": "^5.3|^7",
                 "squizlabs/php_codesniffer": "^2|^3"
             },
